@@ -2,5 +2,5 @@
 
 1. Я немногословен
 
-![gangster][\Images\gangster.jpg "Это Я...но это неточно"]
+![gangster](\Images\gangster.jpg "Это Я...но это неточно")
 
